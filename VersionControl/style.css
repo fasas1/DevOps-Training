@@ -1,3 +1,10 @@
 body{
     background-color: rgb(4, 4, 124);
 }
+
+h2{
+    font-size: 0.7rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
